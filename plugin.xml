@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="No Pirates">
+ <author>Naev DevTeam</author>
+ <version>1.0</version>
+ <compatibility>^0\.12\..*</compatibility>
+ <description>A mod that removes pirate presence throughout the universe.</description>
+ <source>https://github.com/triskelion-voidsaints/naeva</source>
+</plugin>
